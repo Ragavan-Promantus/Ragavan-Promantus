@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ragavan-Promantus</h1>
-<h3 align="center">A Associate Software Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Ragavan</h1>
+<h3 align="center">Associate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on **Benepay**
+- 🔭 I’m currently working on **Promantus**
 
 - 🌱 I’m currently learning **django, Java springboot, Angular js**
 
