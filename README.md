@@ -8,8 +8,6 @@
 - 💬 Ask me about **html, css, bootstrap 5, jquery, PHP, Laravel, mysql, react js**
 
 - 📫 How to reach me **ragavan@promantus.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
