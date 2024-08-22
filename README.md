@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ragavan</h1>
-<h3 align="center">Associate Software Engineer from India</h3>
+<h3 align="center">Associate Software Engineer from Chennai</h3>
 
 - 🔭 I’m currently working on **Promantus**
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **html, css, bootstrap 5, jquery, PHP, Laravel, mysql, react js**
 
-- 📫 How to reach me **ragavan@promantus.com**
+- 📫 How to reach me **ragavan@promantusinc.com**
 <p align="left">
 </p>
 
