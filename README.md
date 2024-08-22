@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **django, Java springboot, Angular js**
 
-- 💬 Ask me about **html, css, bootstrap 5, jquery, PHP, Laravel, mysql, react js**
+- 💬 Ask me about **html, css, bootstrap 5, jquery, PHP, Laravel, mysql, react js, react native**
 
 - 📫 How to reach me **ragavan@promantusinc.com**
 <p align="left">
