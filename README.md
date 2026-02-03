@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ragavan</h1>
-<h3 align="center">Associate Software Engineer from Chennai</h3>
+<h3 align="center">Software Engineer from Chennai</h3>
 
 - 🔭 I’m currently working on **Promantus**
 
